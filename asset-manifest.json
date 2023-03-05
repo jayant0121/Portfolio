@@ -1,15 +1,16 @@
 {
-  "main.css": "/Portfolio/static/css/main.0fd33e18.chunk.css",
-  "main.js": "/Portfolio/static/js/main.c6978866.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.c6978866.chunk.js.map",
-  "static/js/1.bb7c3da1.chunk.js": "/Portfolio/static/js/1.bb7c3da1.chunk.js",
-  "static/js/1.bb7c3da1.chunk.js.map": "/Portfolio/static/js/1.bb7c3da1.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.a7a0a410.chunk.css",
+  "main.js": "/Portfolio/static/js/main.8dc741db.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.8dc741db.chunk.js.map",
+  "static/js/1.8c731bd5.chunk.js": "/Portfolio/static/js/1.8c731bd5.chunk.js",
+  "static/js/1.8c731bd5.chunk.js.map": "/Portfolio/static/js/1.8c731bd5.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
   "runtime~main.js.map": "/Portfolio/static/js/runtime~main.3b961160.js.map",
   "static/media/Jayant Asudhani Resume.pdf": "/Portfolio/static/media/Jayant Asudhani Resume.e2815b33.pdf",
   "static/media/me.png": "/Portfolio/static/media/me.0a8cf10e.png",
-  "static/css/main.0fd33e18.chunk.css.map": "/Portfolio/static/css/main.0fd33e18.chunk.css.map",
+  "static/media/me-about.jpg": "/Portfolio/static/media/me-about.021e438d.jpg",
+  "static/css/main.a7a0a410.chunk.css.map": "/Portfolio/static/css/main.a7a0a410.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.b3c8405bfb8577257e952fb1a458b3e3.js": "/Portfolio/precache-manifest.b3c8405bfb8577257e952fb1a458b3e3.js",
+  "precache-manifest.fd2993753865ae0ed90b1a4e4b7b0ea8.js": "/Portfolio/precache-manifest.fd2993753865ae0ed90b1a4e4b7b0ea8.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
